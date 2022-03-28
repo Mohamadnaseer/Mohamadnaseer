@@ -38,4 +38,4 @@ Here are some ideas to get you started:
 <p><br><br><img align="center" src="https://github-readme-stats.vercel.app/api?username=mohamadnaseer&show_icons=true&locale=en" alt="mohamadnaseer" /></p><br> <br> 
 
 <p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=mohamadnaseer&" alt="mohamadnaseer" /></p><br> 
-<img align="right" alt="GIF" src="https://github.com/abhisheknaiidu/abhisheknaiidu/raw/master/code.gif?raw=true" width="500" height="320" style="max-width: 100%;">
+<img align="right" alt="GIF" src="https://github.com/abhisheknaiidu/abhisheknaiidu/raw/master/code.gif?raw=true" width="500" height="320">
