@@ -24,7 +24,7 @@ Here are some ideas to get you started:
 <p align="left">
 <a href="https://twitter.com/mohamadnaseer32" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/twitter.svg" alt="mohamadnaseer32" height="30" width="40" /></a>
 <a href="https://linkedin.com/in/mohamadnaseer" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="mohamadnaseer" height="30" width="40" /></a>
-<a href="https://kaggle.com/mohamad naseer" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/kaggle.svg" alt="mohamad naseer" height="30" width="40" /></a>
+<a href="https://kaggle.com/mohamadnaseer " target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/kaggle.svg" alt="mohamad naseer" height="30" width="40" /></a>
 <a href="https://fb.com/mohamad.naseer.1213" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/facebook.svg" alt="mohamad.naseer.1213" height="30" width="40" /></a>
 <a href="https://instagram.com/naseer_stark" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/instagram.svg" alt="naseer_stark" height="30" width="40" /></a>
 </p>
